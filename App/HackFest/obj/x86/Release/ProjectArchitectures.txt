@@ -1,0 +1,2 @@
+C:\Users\otsukam\Documents\HackFest\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\otsukam\Documents\HackFest\App\HackFest\HackFest.csproj;x86

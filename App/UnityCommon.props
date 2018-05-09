@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HackFest</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\otsukam\Documents\HackFest\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\otsukam\Documents\HackFest\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
